@@ -1,0 +1,17 @@
+* {
+    border: 1px solid red;
+}
+
+p {
+    margin: 0px;
+}
+
+.contenant {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.contenu {
+    
+}
